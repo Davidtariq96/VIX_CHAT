@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996041085563",
+    "project_id": "vix-chat-bff35",
+    "storage_bucket": "vix-chat-bff35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996041085563:android:0fb730c3eba91c85dfc8de",
+        "android_client_info": {
+          "package_name": "com.Sam.vix_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996041085563-m4kq2e1hbiskl9p557edds8rd4e0mp2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmL9hMIh16CP7Zc5POeznC4lNpOC4NFCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996041085563-m4kq2e1hbiskl9p557edds8rd4e0mp2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
